@@ -1,1 +1,2 @@
-# Vast-Hub
+# Vast-Hub 
+This Script is a joke.
